@@ -6,3 +6,7 @@ Se implemento el Clasificador
 
 Problema: Seguimiento de Libros
 <img width="341" height="732" alt="image" src="https://github.com/user-attachments/assets/4d6e0212-170b-4e04-bcfb-072f5f399167" />
+
+Problema: Creando Objeto libro
+<img width="315" height="635" alt="image" src="https://github.com/user-attachments/assets/a4a5be34-d6dc-4aa1-86ee-08d22bf579b9" />
+<img width="335" height="528" alt="image" src="https://github.com/user-attachments/assets/b2c48dec-2820-4644-a2f9-1887ad1c9dd5" />
